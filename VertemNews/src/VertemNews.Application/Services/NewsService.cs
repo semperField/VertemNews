@@ -50,12 +50,12 @@ namespace VertemNews.Application.Services
             }
         }
 
-        public async Task<List<NewsModel>> GetNewsByCategoryAsync(string category)
+        public async Task<List<NewsModel>> GetNewsByTitleAsync(string title)
         {
             try
             {
                 var filter = PredicateBuilder.True<New>();
-                filter = filter.And(x => x.Title.Contains(category));
+                filter = filter.And(x => x.Title.Contains(title));
                 
                 var result = await _repository.FindAsync(filter, null, o => o.OrderByDescending(x => x.PublishedAt));
 

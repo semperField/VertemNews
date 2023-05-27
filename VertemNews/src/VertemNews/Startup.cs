@@ -22,6 +22,7 @@ namespace VertemNews
         {
             services.AddSingleton<IConfiguration>(_configuration);
             services.AddScoped<INewsService, NewsService>();
+            services.AddScoped<INewsApiIntegrationService, NewsApiIntegrationService>();
             services.AddDbContext<NewsContext>();
             services.AddTransient(typeof(IBaseRepository<>), typeof(BaseRepository<>));
             services.AddTransient<INewsRepository, NewsRepository>();

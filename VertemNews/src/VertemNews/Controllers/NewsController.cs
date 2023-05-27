@@ -33,11 +33,11 @@ namespace VertemNews.Controllers
             return result.ToSuccessRequest();
         }
 
-        [HttpGet("category/category")]
+        [HttpGet("title/{title}")]
         [SwaggerResponse(200, Type = typeof(List<NewsModel>))]
-        public async Task<IActionResult> GetCategory(string category)
+        public async Task<IActionResult> GetTitle(string title)
         {
-            var result = await _service.GetNewsByCategoryAsync(category);
+            var result = await _service.GetNewsByTitleAsync(title);
             return result.ToSuccessRequest();
         }
 
