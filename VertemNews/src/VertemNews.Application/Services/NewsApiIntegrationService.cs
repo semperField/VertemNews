@@ -11,6 +11,7 @@ namespace VertemNews.Application.Services
         {
             try
             {
+                HttpClient client = new HttpClient();
                 var json = string.Empty;
                 var url = "https://newsapi.org/v2/everything?" +
                           "q=Apple&" +
@@ -22,7 +23,7 @@ namespace VertemNews.Application.Services
                 {
                     try
                     {
-                        json = new WebClient().DownloadString(url);
+                        json = await client.GetStringAsync(url);
                         break;
                     }
                     catch (Exception)
