@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zx3mw/gbkpFDeOUIlN+FUwr3OWN2UJ5EM0fT/0bxDBjQB+7CVHKFO8dyf/cZQGyYrFNh69OcVuZCvS6HI1IAmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Vertem\\VertemNews\\src\\VertemNews.Application\\VertemNews.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uds\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\uds\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\uds\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\uds\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

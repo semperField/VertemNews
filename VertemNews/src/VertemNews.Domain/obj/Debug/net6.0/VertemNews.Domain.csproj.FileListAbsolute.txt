@@ -1,0 +1,12 @@
+C:\Vertem\VertemNews\src\VertemNews.Domain\bin\Debug\net6.0\VertemNews.Domain.deps.json
+C:\Vertem\VertemNews\src\VertemNews.Domain\bin\Debug\net6.0\VertemNews.Domain.dll
+C:\Vertem\VertemNews\src\VertemNews.Domain\bin\Debug\net6.0\VertemNews.Domain.pdb
+C:\Vertem\VertemNews\src\VertemNews.Domain\obj\Debug\net6.0\VertemNews.Domain.csproj.AssemblyReference.cache
+C:\Vertem\VertemNews\src\VertemNews.Domain\obj\Debug\net6.0\VertemNews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vertem\VertemNews\src\VertemNews.Domain\obj\Debug\net6.0\VertemNews.Domain.AssemblyInfoInputs.cache
+C:\Vertem\VertemNews\src\VertemNews.Domain\obj\Debug\net6.0\VertemNews.Domain.AssemblyInfo.cs
+C:\Vertem\VertemNews\src\VertemNews.Domain\obj\Debug\net6.0\VertemNews.Domain.csproj.CoreCompileInputs.cache
+C:\Vertem\VertemNews\src\VertemNews.Domain\obj\Debug\net6.0\VertemNews.Domain.dll
+C:\Vertem\VertemNews\src\VertemNews.Domain\obj\Debug\net6.0\refint\VertemNews.Domain.dll
+C:\Vertem\VertemNews\src\VertemNews.Domain\obj\Debug\net6.0\VertemNews.Domain.pdb
+C:\Vertem\VertemNews\src\VertemNews.Domain\obj\Debug\net6.0\ref\VertemNews.Domain.dll
